@@ -22,6 +22,18 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+
+# NestJS REST API Sample
+
+A basic REST API built with NestJS, demonstrating CRUD operations, search functionality, and JWT token-based authentication. This project uses a local array for data management to keep it simple and easy to understand.
+
+## Key Features
+
+- **CRUD Operations**: Includes endpoints for creating, reading, updating, and deleting items.
+- **Search Functionality**: Provides search capability to filter items based on query strings.
+- **JWT Authentication**: Implements token-based authentication to secure API endpoints.
+- **Simple Data Handling**: Uses a local array to manage data instead of a database, simplifying the setup process.
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
