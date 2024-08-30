@@ -58,6 +58,38 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+
+## API Documentation
+
+For detailed API usage and testing, please refer to the Postman documentation:
+
+[Postman API Documentation]
+https://documenter.getpostman.com/view/33850911/2sAXjKbDDV
+
+### Getting Started with the API
+
+1. **Base URL**: `http://localhost:3000`
+
+2. **Authentication Endpoints**:
+
+   - **Login**: `/auth/login` (POST)
+   - **Protected Route**: `/auth/protected` (POST)
+
+### How to Use the Postman Collection
+
+1. Click the link above to access the Postman documentation.
+2. Download or import the Postman collection to your Postman application.
+3. Follow the instructions provided in the Postman collection to test the API endpoints.
+
+### Example Usage
+
+- **Login Request**:
+  ```json
+  {
+    "username": "test",
+    "password": "test"
+  }
+
 ## Resources
 
 Check out a few resources that may come in handy when working with NestJS:
