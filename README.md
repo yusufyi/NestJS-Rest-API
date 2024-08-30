@@ -33,6 +33,7 @@ A basic REST API built with NestJS, demonstrating CRUD operations, search functi
 - **Search Functionality**: Provides search capability to filter items based on query strings.
 - **JWT Authentication**: Implements token-based authentication to secure API endpoints.
 - **Simple Data Handling**: Uses a local array to manage data instead of a database, simplifying the setup process.
+- **Postman API Documentation**: https://documenter.getpostman.com/view/33850911/2sAXjKbDDV
 
 ## Description
 
